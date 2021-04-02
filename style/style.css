@@ -4,6 +4,10 @@
     box-sizing: border-box;
 }
 
+html {
+    overflow-x:hidden;
+}
+
 body {
     margin: 0;
     padding: 0;
@@ -443,7 +447,7 @@ footer a {
     }
 }
 
-@media (max-width: 375px) {
+@media (max-width: 450px) {
 
     nav img {
         width: 150px;
