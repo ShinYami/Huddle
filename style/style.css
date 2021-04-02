@@ -472,7 +472,7 @@ footer a {
     }
 }
 
-@media (max-width: 345px) {
+@media (max-width: 375px) {
     .section1 h1 {
         width: 350px;
     }
