@@ -443,4 +443,29 @@ footer a {
     }
 }
 
+@media (max-width: 375px) {
+
+    nav img {
+        width: 150px;
+    }
+
+    .nav a {
+        width: 100px;
+    }
+    .section1 #screen_img {
+        width: 300px;
+    }
+
+    .section1 h1 {
+        width: 380px;
+    }
+
+    .footer {
+        width: 300px;
+    }
+    .footer p {
+        width: 300px;
+    }
+}
+
 
