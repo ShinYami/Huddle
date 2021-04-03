@@ -50,6 +50,7 @@ p {
     color: hsl(321, 100%, 78%);
     cursor: pointer;
     transition: all 1s ease-out;
+    text-decoration: none;
 }
 
 .nav a:hover {
@@ -87,6 +88,7 @@ p {
     font-weight: 600;
     box-shadow: 2px 5px 0px rgb(202, 202, 202);
     cursor: pointer;
+    text-decoration: none;
 }
 
 .section1 #screen_img {
@@ -296,6 +298,7 @@ p {
     font-weight: 600;
     box-shadow: 2px 5px 0px rgb(202, 202, 202);
     cursor: pointer;
+    text-decoration: none;
 }
 
 @media (max-width: 500px) {
